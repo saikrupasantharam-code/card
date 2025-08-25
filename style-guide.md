@@ -14,10 +14,10 @@ The designs were created to the following widths:
 ### Primary
 
 - Blue 500: hsl(215, 51%, 70%)
-- Cyan 400: hsl(178, 100%, 50%)
+- Cyan 400: 
 
 ### Neutral
-
+hsl(178, 100%, 50%)
 - Blue 950 (main BG): hsl(217, 54%, 11%)
 - Blue 900 (card BG): hsl(216, 50%, 16%)
 - Blue 800 (line): hsl(215, 32%, 27%)
